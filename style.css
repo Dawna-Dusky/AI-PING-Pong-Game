@@ -1,0 +1,25 @@
+body
+{
+background-image: url("background1.jpg");
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+background-color: #ffc107;
+float: right;
+border: 1px solid white;
+}
+#start{
+    font-size: 22px;
+    color: black;
+}
+#status{
+    font-size: 22px;
+    background-color: white;
+    color: black;    
+}
